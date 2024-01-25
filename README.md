@@ -1,4 +1,6 @@
 # dicee_flutter
+![chrome_wrL0EBV73N](https://github.com/nayeemx11/Dice_Flutter/assets/63298176/3354f4bf-1066-4f66-89fe-1776e925dc8a)
+
 
 <!-- echo "# Dice_Flutter" >> README.md
 git init
